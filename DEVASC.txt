@@ -1,1 +1,2 @@
 hola mundo
+Yo estoy empezando a entender GIT
